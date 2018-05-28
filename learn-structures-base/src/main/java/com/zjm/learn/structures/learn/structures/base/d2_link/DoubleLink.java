@@ -1,4 +1,4 @@
-package com.zjm.learn.structures.learn.structures.base.d2_list;
+package com.zjm.learn.structures.learn.structures.base.d2_link;
 
 public class DoubleLink<T> {
 	private DNode<T> mHead; 
