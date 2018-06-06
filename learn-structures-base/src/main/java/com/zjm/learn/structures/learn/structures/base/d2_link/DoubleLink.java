@@ -111,6 +111,7 @@ public class DoubleLink<T> {
 		mCount--;
 	}
 	
+	
 	// 删除第一个节点
 	public void deleteFirst() {
 		del(0);

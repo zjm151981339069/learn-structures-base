@@ -31,7 +31,6 @@ public class DlinkTest {
             System.out.println("dlink("+i+")="+ dlink.get(i));
     }
 
-
     private static void string_test() {
         String[] sarr = {"ten", "twenty", "thirty", "forty"};
 
