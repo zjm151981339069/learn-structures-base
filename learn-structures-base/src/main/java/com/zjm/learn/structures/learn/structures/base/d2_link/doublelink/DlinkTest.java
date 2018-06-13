@@ -1,4 +1,4 @@
-package com.zjm.learn.structures.learn.structures.base.d2_link;
+package com.zjm.learn.structures.learn.structures.base.d2_link.doublelink;
 /**
  * Java 实现的双向链表。 
  * 注：java自带的集合包中有实现双向链表，路径是:java.util.LinkedList
