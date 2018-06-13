@@ -1,4 +1,4 @@
-package com.zjm.learn.structures.learn.structures.base.d1_array;
+package com.zjm.learn.structures.learn.structures.base.d1_sort;
 
 import java.util.Arrays;
 
